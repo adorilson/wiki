@@ -82,6 +82,13 @@ da comunidade Python Brasil.
 
 3. **Premio Dorneles Tremea** - Conteúdo em formato markdown no arquivo [content/pages/premio-dorneles-tremea.md](https://github.com/pythonbrasil/wiki/blob/pelican/content/pages/premio-dorneles-tremea.md).
 
+### Outras páginas e informações relacionadas
+
+1. **Página inicial**:
+
+1. **Itens do menu superior**: Os itens do menu superior, são definidos no
+arquivo [pelicanconf.py](pelicanconf.py) na variável *NAVBAR_HOME_LINKS*.
+
 ### Para contribuir com desenvolvimento
 *(ao contribuir com o Repositório utilizar a branch 'pelican')*
 
